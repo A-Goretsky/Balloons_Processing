@@ -16,11 +16,6 @@ void setup() {
 void draw() {
   background(0);
 
-
-  for (int i=0; i < balls.length; i++ ) {
-    
-  }
-
   for (int i=0; i < balls.length; i++ ) {
     balls[i].draw(i);
     balls[i].process();
