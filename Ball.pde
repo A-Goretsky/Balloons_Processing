@@ -5,7 +5,7 @@ class Ball {
   final static int SHRINKING = 2;
   final static int DEAD = 3;
       
-  //other constants necessary?
+  //other constants necessary? Nah bruh I think your good
   
   float x;
   float y;
